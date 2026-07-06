@@ -1,16 +1,18 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**studywgenny/studywgenny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## haii i'm genny! ˚˖𓍢ִ໋❀
 
-Here are some ideas to get you started:
+an engineering student who drinks wayy too much coffee
+& absolutely does not have a sleep schedule
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+𐔌՞ ܸ.ˬ.ܸ՞𐦯
+
+︶⊹︶︶୨୧︶︶⊹︶︶⊹︶︶୨୧︶︶⊹︶
+
+</div>
+### ⋆˚꩜｡ about me
+
+- ✦ on a mission to make tech cuter 4 ALL THE GIRLIES !!!
+- ✦ hardware ⊹ software ⊹ a lil bit of philosophy
+- ✦ coffee. purple redbull ₊˚🎧⊹♡
+- ✦ if it compiles, it compiles! don't make me debug it PLZ.
