@@ -1,4 +1,3 @@
-<div align="center">
 
 ## haii i'm genny! ˚˖𓍢ִ໋❀
 
@@ -9,7 +8,6 @@ an engineering student who drinks wayy too much coffee
 
 ︶⊹︶︶୨୧︶︶⊹︶︶⊹︶︶୨୧︶︶⊹︶
 
-</div>
 ### ⋆˚꩜｡ about me
 
 - ✦ on a mission to make tech cuter 4 ALL THE GIRLIES !!!
