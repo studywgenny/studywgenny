@@ -10,7 +10,7 @@ an engineering student who drinks wayy too much coffee
 
 ### ⋆˚꩜｡ about me
 
-- ✦ on a mission to make tech cuter 4 ALL THE GIRLIES !!!
-- ✦ hardware ⊹ software ⊹ a lil bit of philosophy
-- ✦ coffee. purple redbull ₊˚🎧⊹♡
-- ✦ if it compiles, it compiles! don't make me debug it PLZ.
+-  on a mission to make tech cuter 4 ALL THE GIRLIES !!!
+-  hardware ⊹ software ⊹ a lil bit of philosophy
+- coffee. purple redbull ₊˚🎧⊹♡
+- if it compiles, it compiles! don't make me debug it PLZ.
